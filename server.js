@@ -1,7 +1,19 @@
 #!/usr/bin/env
 
-const { promises: Fs }  =   require('fs')
-const { Table }         =   require('console-table-printer');
+const { promises: Fs }   =  require('fs')
+const { Table }          =  require('console-table-printer');
+
+var http                 =  require('http');
+var debug                =  require('debug')('express-sequelize');
+var Caching              =  require('./run/cache');
+var app                  =  require('./run/instance');
+var models               =  require('./databases/sql');
+var format               =  require('./handlers/format');
+var si                   =  require('systeminformation');
+const Path               =  require('path');
+var Forgot               =  require('./timers/forgot');
+var Undelivered          =  require('./timers/undelivered');
+var Etc                  =  require('./handlers/etc');
 
 async function exists(file) 
 {
