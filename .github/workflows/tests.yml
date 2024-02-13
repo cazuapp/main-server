@@ -12,5 +12,4 @@ jobs:
           node-version: 18.11.0
           cache: npm
       - run: npm ci
-      - run: npm run build
       - uses: actions/upload-artifact@v3
