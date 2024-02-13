@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.cazuapp.dev/assets/images/logo.png" alt="CazuApp">
+  <img src="https://www.cazuapp.dev/static/logo.png" alt="CazuApp">
 </p>
 
 # What is CazuApp?
