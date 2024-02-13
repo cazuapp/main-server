@@ -18,9 +18,7 @@ module.exports = (sequelize, DataTypes) =>
 
         code:
         {
-            allowNull: true,
-            type: DataTypes.INTEGER,
-            defaultValue: 0
+            type: DataTypes.ENUM("badbehavior", "badaction"),
         },
 
         updatedat: 

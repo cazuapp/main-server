@@ -1,0 +1,4 @@
+EMAIL_SERVICE=smtp
+EMAIL_PORT=587
+EMAIL_ORIGIN=mail@domain.com
+EMAIL_PASSWORD=password

@@ -1,0 +1,7 @@
+ok=200
+bad_request=405
+invalid_token=498
+token_required=499
+banned=600
+maint=700
+internet_failed=800

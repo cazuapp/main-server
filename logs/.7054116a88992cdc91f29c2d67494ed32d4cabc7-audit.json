@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "logs/.7054116a88992cdc91f29c2d67494ed32d4cabc7-audit.json",
+    "files": [
+        {
+            "date": 1688218604036,
+            "name": "logs/access-2023-07-01.log",
+            "hash": "b3b67e4067fc93eb9902ef788d4397fad70e9ad52479fd543e317162f1d19c45"
+        },
+        {
+            "date": 1688304982859,
+            "name": "logs/access-2023-07-02.log",
+            "hash": "0674552a463ee06d499b2d03b200045f3703f2fb54a3afeb5a61ccf7bd771b16"
+        },
+        {
+            "date": 1688387086994,
+            "name": "logs/access-2023-07-03.log",
+            "hash": "729223fe8d1ba136004f017b6676d148e3acba222baa3177df82653a84d781a3"
+        },
+        {
+            "date": 1688469765343,
+            "name": "logs/access-2023-07-04.log",
+            "hash": "a3cd6b8b02c11401b4d43f68b5c220ec2f386891d5ac6203799dbbda7bcccf98"
+        },
+        {
+            "date": 1688558431571,
+            "name": "logs/access-2023-07-05.log",
+            "hash": "c87f38f6c37d0fcc96a39e85ed82150655166138a8911a99cc2a26333f69b95d"
+        },
+        {
+            "date": 1688662334123,
+            "name": "logs/access-2023-07-06.log",
+            "hash": "d7b93b9b1b536a9abc462836b1fa3c4ad602e12037e09c810b1aa13894bdafc8"
+        },
+        {
+            "date": 1688735127782,
+            "name": "logs/access-2023-07-07.log",
+            "hash": "397aeae4f8621f3c32feb7e39d5d1b63698f29bf9b0d9d4ca17dc2ad1c38e8f3"
+        },
+        {
+            "date": 1688828150580,
+            "name": "logs/access-2023-07-08.log",
+            "hash": "fd0597eee2195707f59d679d4d1725c599ce5ee3f655fbf326d8007b958379ec"
+        },
+        {
+            "date": 1688910149117,
+            "name": "logs/access-2023-07-09.log",
+            "hash": "1cce7bcc270f12dbb413435836905595ec54e1bd4381da81dcb12cf10ce3bf4b"
+        },
+        {
+            "date": 1688992925267,
+            "name": "logs/access-2023-07-10.log",
+            "hash": "435e7503985f4070b8493adbffd993ffa54e934699ec367f77b3444565a83479"
+        },
+        {
+            "date": 1689078466795,
+            "name": "logs/access-2023-07-11.log",
+            "hash": "948a9571d01b9622f7dcd4d3f79f0bb39aaf8a2b4c804e5d07d11b1af6a1f590"
+        }
+    ],
+    "hashType": "sha256"
+}

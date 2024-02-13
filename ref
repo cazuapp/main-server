@@ -1,0 +1,8 @@
+goto:
+  lep
+
+build:
+   apisync
+ 
+copy:
+   emca
