@@ -34,6 +34,3 @@ We welcome contributors from diverse backgrounds 🌈👨❤️. Whether you're 
 - 🌵 Contribute to our [repositories](https://github.com/cazuapp).
 - 💬 Connect with our team and community on our [Discord server](https://discord.cazuapp.dev).
 
-### Contribution Guidelines
-
-Check out our [CONTRIBUTING.md](https://github.com/cazuapp/main-app/blob/master/CONTRIBUTING.md) for guidelines on how to contribute effectively.
