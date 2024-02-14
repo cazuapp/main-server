@@ -30,7 +30,7 @@ We welcome contributors from diverse backgrounds 🌈👨❤️. Whether you're 
 
 ### How to Get Involved
 
-- 🎓 Browse and tackle [pending issues](https://github.com/cazuapp/main-app/issues) or suggest new features.
+- 🎓 Browse and tackle [pending issues](https://github.com/cazuapp/main-server/issues) or suggest new features.
 - 🌵 Contribute to our [repositories](https://github.com/cazuapp).
 - 💬 Connect with our team and community on our [Discord server](https://discord.cazuapp.dev).
 
