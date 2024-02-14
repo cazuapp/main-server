@@ -2,7 +2,7 @@
   <img src="https://www.cazuapp.dev/assets/images/logo.png" alt="CazuApp">
 </p>
 
-# What is CazuApp?
+### What is CazuApp?
 
 **CazuApp** is an innovative, open-source delivery application designed to streamline and optimize the process of goods delivery. With its user-friendly interface and robust functionality, CazuApp aims to enhance the delivery experience for both customers and drivers. The project is split into several components, each focusing on different aspects of the delivery process:
 
