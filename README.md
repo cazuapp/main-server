@@ -22,7 +22,7 @@ To set up CazuApp, ensure you have the following prerequisites installed:
 - **SQL Server (MySQL recommended)**
 - **Node.js v16+**
 
-The API, built using Express.js and JavaScript, can be set up in any environment that supports Node.js. Follow our step-by-step installation guide on the [documentation site](https://docs.cazuapp.dev/api/core/installation).
+The API, built using Express.js and JavaScript, can be set up in any environment that supports Node.js. Follow our step-by-step installation guide on the [documentation site](https://docs.cazuapp.dev/api/server/installation).
 
 ## Join Our Community 👋
 
