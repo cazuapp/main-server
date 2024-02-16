@@ -1,3 +1,3 @@
 sh scripts/redo.sh
-perl scripts/setup
-perl scripts/user
+perl scripts/setup.pl
+perl scripts/user.pl
