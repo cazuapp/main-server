@@ -9,7 +9,7 @@ use Term::ANSIColor;  # Added for color formatting
 use Time::HiRes qw(gettimeofday tv_interval);
 
 # Define the API endpoint
-my $API = "http://127.0.0.1:3000/server/api/app/noauth/signup";
+my $API = "http://localhost:3000/server/api/app/noauth/signup";
 
 # Default user information
 my $DEFAULT_EMAIL = 'test@cazuapp.dev';
